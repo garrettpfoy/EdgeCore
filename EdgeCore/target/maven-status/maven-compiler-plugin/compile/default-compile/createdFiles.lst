@@ -1,0 +1,11 @@
+me\picklez\edgecore\tasks\ClanChecker.class
+me\picklez\edgecore\commands\ClanCommand.class
+me\picklez\edgecore\utils\Common.class
+me\picklez\edgecore\commands\HelpCommand.class
+me\picklez\edgecore\config\SimpleConfig$PrimitiveWrapper.class
+me\picklez\edgecore\EdgeCore\Main.class
+me\picklez\edgecore\events\PlayerListener.class
+me\picklez\edgecore\utils\ChatUtils.class
+me\picklez\edgecore\EdgeCore\PlayerCache.class
+me\picklez\edgecore\tasks\Broadcaster.class
+me\picklez\edgecore\config\SimpleConfig.class
